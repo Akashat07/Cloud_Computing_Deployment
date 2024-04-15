@@ -12,7 +12,14 @@ College Project for Cloud Computing
 | **Target Outcome**  | Project Report and Demonstration         |
 
 # Demonstration Link
-[Click here to open the working demo of project]()
+Project is deployed on two Clouds
+1. Vercel
+https://cloud-computing-deployment.vercel.app
+
+2. On GitHub Pages
+https://techux.github.io/Cloud_Computing_Deployment/
+
+
 
 ## Techs used
 For development
@@ -25,6 +32,6 @@ For deployment
   - GitHub CLI
 
 ## Screenshots
-
+![image](https://github.com/techux/Cloud_Computing_Deployment/assets/58107305/88a745f9-0dea-450e-8819-37cd6f789eaf)
 
 # Thank you
